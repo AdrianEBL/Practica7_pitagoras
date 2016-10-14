@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teorema de Pitagoras</string>
+    <string name="main.hint.txtpitagoras">Proporcione el Cateto Adyacente y el Cateto Opuesto de un triangulo rectangulo</string>
+    <string name="main.hint.inputcatad">C.A.</string>
+    <string name="main.hint.inputcatop">C.O.</string>
+    <string name="main.button.btncalc">Calcular</string>
+</resources>
